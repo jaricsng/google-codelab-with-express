@@ -1,5 +1,12 @@
 # google-codelab-with-express
 
+this project makes use of google codelab webcomponents and host it in ExpressJS.
+
+The ExpressJS app is generated using [ExpressJS](https://expressjs.com/en/starter/generator.html) handlebar engine
+```
+express --view=hbs google-codelab-with-express
+```
+
 ## setup
 
 ```
